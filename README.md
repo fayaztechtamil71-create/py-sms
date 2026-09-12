@@ -38,12 +38,3 @@ python --version
 
 ---
 
-## Usage: Install from GIT
-
-### For Termux (Android)
-```bash
-pkg update && pkg upgrade -y
-pkg install git python -y
-git clone (https://github.com/fayaztechtamil71-create/py-sms.git)
-cd py-sms
-python SMS.py
