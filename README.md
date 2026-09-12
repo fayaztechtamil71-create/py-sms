@@ -27,6 +27,8 @@ Check your Python version by typing in your terminal:
 ```bash
 python --version
 
+---
+
 ## Features
 
 * Lightweight and easy-to-use Python script.
