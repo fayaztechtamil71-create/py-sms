@@ -26,3 +26,6 @@ Check your Python version by typing in your terminal:
 
 ```bash
 python --version
+
+python --version
+Recommended Python Version:python 3.x
