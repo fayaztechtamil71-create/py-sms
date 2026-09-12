@@ -27,14 +27,3 @@ Check your Python version by typing in your terminal:
 ```bash
 python --version
 
----
-
-## Features
-
-* Lightweight and easy-to-use Python script.
-* Cross-platform support for Mobile and PC environments.
-* Simple terminal interface for students and beginners.
-* Modular and clean code for educational learning.
-
----
-
